@@ -2,16 +2,22 @@
 # ============================================================================
 # Team identity
 # ============================================================================
-team_name: "redrob-ranking-engine"
+team_name: "diet_coke_coders"
 
 primary_contact:
-  name: "Team Member"
-  email: "member@example.com"
-  phone: "+91-XXXXXXXXXX"
+  name: "Vaibhav Trivedi"
+  email: "vaibhav.trivedi.4303@gmail.com"
+  phone: "+91-9873522095"
 
 team_members:
-  - name: "Team Member"
-    email: "member@example.com"
+  - name: "Raghav Kathuria"
+    email: "raghavkathuria69@outlook.com"
+    role: "debugger"
+  - name: "Pravesh kumar verma"
+    email: "praveshrajput4321@gmail.com"
+    role: "Tester"
+  - name: "Shikhar Prajapati"
+    email: "prajapatishikhar43@gmail.com"
     role: "ML Engineer"
 
 # ============================================================================
@@ -19,7 +25,7 @@ team_members:
 # ============================================================================
 github_repo: "https://github.com/Shikhar-404exe/India-Runs.git"
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/Shikhar9000/INDIA-RUNS"
 
 reproduce_command: "python -m backend.fast_pipeline --data-dir data --out submission.csv"
 
