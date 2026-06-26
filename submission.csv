@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0046064,1,1.335,"Senior NLP Engineer with 8.9 yrs at Salesforce; 5 AI-core skills; recruiter response rate 0.78; 30d notice; GitHub activity score 67; based in Coimbatore, Tamil Nadu."
+CAND_0071974,2,1.2857,"Senior AI Engineer with 7.8 yrs at Netflix; 8 AI-core skills; recruiter response rate 0.76; 45d notice; GitHub activity score 83; based in Vizag, Andhra Pradesh."
+CAND_0039754,3,1.2301,"Senior Applied Scientist with 16.2 yrs at Meta; 8 AI-core skills; recruiter response rate 0.81; 30d notice; GitHub activity score 78; based in Indore, Madhya Pradesh."
+CAND_0008425,4,1.2163,"Senior NLP Engineer with 7.8 yrs at Ola; 9 AI-core skills; recruiter response rate 0.66; 90d notice; GitHub activity score 53; based in Kolkata, West Bengal."
+CAND_0046525,5,1.1421,"Senior Machine Learning Engineer with 6.1 yrs at Genpact AI; 10 AI-core skills; recruiter response rate 0.88; 60d notice; GitHub activity score 37; based in Pune, Maharashtra."
+CAND_0081846,6,1.1202,"Lead AI Engineer with 6.7 yrs at Razorpay; 6 AI-core skills; recruiter response rate 0.73; 30d notice; GitHub activity score 34; based in Jaipur, Rajasthan."
+CAND_0055905,7,1.1165,Senior Machine Learning Engineer with 8.1 yrs at Flipkart; 7 AI-core skills; recruiter response rate 0.87; 30d notice; based in London.
+CAND_0043829,8,0.9933,"AI Research Engineer with 4.8 yrs at Observe.AI; 4 AI-core skills; recruiter response rate 0.78; 90d notice; GitHub activity score 39; based in Bangalore, Karnataka."
+CAND_0093547,9,0.9921,"Senior Machine Learning Engineer with 2.9 yrs at PhonePe; 12 AI-core skills; recruiter response rate 0.75; 60d notice; GitHub activity score 60; based in Coimbatore, Tamil Nadu."
+CAND_0033861,10,0.9817,"Senior NLP Engineer with 8.0 yrs at Mad Street Den; 8 AI-core skills; recruiter response rate 0.16; 30d notice; GitHub activity score 33; based in Vizag, Andhra Pradesh."
+CAND_0080766,11,0.9271,"Staff Machine Learning Engineer with 8.8 yrs at Salesforce; 9 AI-core skills; recruiter response rate 0.66; 0d notice; GitHub activity score 33; based in Coimbatore, Tamil Nadu."
+CAND_0054318,12,0.9267,"AI Research Engineer with 3.5 yrs at BYJU'S; 8 AI-core skills; recruiter response rate 0.87; 60d notice; GitHub activity score 22; based in Chandigarh, Chandigarh."
+CAND_0052027,13,0.8546,AI Research Engineer with 4.5 yrs at Glance; 5 AI-core skills; recruiter response rate 0.56; 120d notice; based in Sydney.
+CAND_0011327,14,0.8537,"AI Research Engineer with 6.3 yrs at Krutrim; 4 AI-core skills; recruiter response rate 0.79; 60d notice; based in Gurgaon, Haryana."
+CAND_0094759,15,0.8471,"Lead AI Engineer with 8.6 yrs at Meta; 10 AI-core skills; recruiter response rate 0.11; 30d notice; GitHub activity score 76; based in Mumbai, Maharashtra."
+CAND_0069773,16,0.8371,"AI Research Engineer with 6.0 yrs at Nykaa; 5 AI-core skills; recruiter response rate 0.28; 120d notice; based in Kochi, Kerala."
+CAND_0005260,17,0.8355,"Senior NLP Engineer with 5.2 yrs at Netflix; 10 AI-core skills; recruiter response rate 0.86; 60d notice; based in Chennai, Tamil Nadu."
+CAND_0036484,18,0.8316,"AI Research Engineer with 5.7 yrs at InMobi; 6 AI-core skills; recruiter response rate 0.80; 90d notice; based in Kolkata, West Bengal."
+CAND_0074325,19,0.803,"AI Research Engineer with 3.9 yrs at Haptik; 7 AI-core skills; recruiter response rate 0.47; 45d notice; based in Gurgaon, Haryana."
+CAND_0004628,20,0.7698,"AI Research Engineer with 3.3 yrs at PharmEasy; 4 AI-core skills; recruiter response rate 0.77; 90d notice; GitHub activity score 62; based in Bhubaneswar, Odisha."
+CAND_0042441,21,0.7265,"AI Research Engineer with 4.1 yrs at Nykaa; 5 AI-core skills; recruiter response rate 0.72; 90d notice; based in Indore, Madhya Pradesh."
+CAND_0006833,22,0.5865,"AI Research Engineer with 5.7 yrs at Mad Street Den; 6 AI-core skills; recruiter response rate 0.26; 120d notice; GitHub activity score 84; based in Kochi, Kerala."
+CAND_0041611,23,0.5808,Staff Machine Learning Engineer with 6.4 yrs at Locobuzz; 11 AI-core skills; recruiter response rate 0.07; 30d notice; based in Austin.
+CAND_0060072,24,0.5593,"Staff Machine Learning Engineer with 5.7 yrs at Amazon; 8 AI-core skills; recruiter response rate 0.10; 90d notice; GitHub activity score 82; based in Indore, Madhya Pradesh."
+CAND_0002884,25,0.55,Software Engineer with 6.4 yrs at Hooli; 6 AI-core skills; recruiter response rate 0.50; 60d notice; GitHub activity score 15; based in Dubai.
+CAND_0061225,26,0.5321,Senior Data Engineer with 6.0 yrs at InMobi; 5 AI-core skills; recruiter response rate 0.50; 30d notice; GitHub activity score 30; based in New York.
+CAND_0057294,27,0.5294,"Senior Software Engineer with 3.3 yrs at Razorpay; 5 AI-core skills; recruiter response rate 0.76; 60d notice; GitHub activity score 38; based in Chandigarh, Chandigarh."
+CAND_0099688,28,0.5035,"Software Engineer with 7.2 yrs at BYJU'S; 3 AI-core skills; recruiter response rate 0.21; 90d notice; GitHub activity score 13; based in Coimbatore, Tamil Nadu."
+CAND_0006970,29,0.4993,"Senior Software Engineer with 5.3 yrs at upGrad; 5 AI-core skills; recruiter response rate 0.76; 90d notice; GitHub activity score 63; based in Ahmedabad, Gujarat."
+CAND_0005422,30,0.4931,Software Engineer with 7.2 yrs at Vedantu; 4 AI-core skills; recruiter response rate 0.42; 60d notice; GitHub activity score 52; based in Dubai.
+CAND_0036427,31,0.4774,"Senior Software Engineer with 3.3 yrs at Nykaa; 0 AI-core skills; recruiter response rate 0.63; 60d notice; based in Coimbatore, Tamil Nadu."
+CAND_0007418,32,0.4702,"Software Engineer with 5.2 yrs at Zoho; 3 AI-core skills; recruiter response rate 0.18; 30d notice; GitHub activity score 25; based in Trivandrum, Kerala."
+CAND_0092070,33,0.4575,Business Analyst with 5.9 yrs at Infosys; 5 AI-core skills; recruiter response rate 0.69; 30d notice; GitHub activity score 38; based in Toronto.
+CAND_0089759,34,0.4574,Senior Software Engineer with 4.5 yrs at PharmEasy; 4 AI-core skills; recruiter response rate 0.42; 90d notice; based in London.
+CAND_0028040,35,0.4562,"Senior Software Engineer with 3.9 yrs at Flipkart; 2 AI-core skills; recruiter response rate 0.18; 120d notice; based in Noida, Uttar Pradesh."
+CAND_0059772,36,0.4455,"Software Engineer with 4.4 yrs at Stark Industries; 7 AI-core skills; recruiter response rate 0.58; 90d notice; GitHub activity score 30; based in Chennai, Tamil Nadu."
+CAND_0097792,37,0.4425,Senior Data Engineer with 3.7 yrs at Hooli; 2 AI-core skills; recruiter response rate 0.62; 60d notice; GitHub activity score 61; based in Dubai.
+CAND_0021454,38,0.4307,"Senior Data Engineer with 4.0 yrs at Pied Piper; 6 AI-core skills; recruiter response rate 0.23; 60d notice; GitHub activity score 18; based in Trivandrum, Kerala."
+CAND_0009325,39,0.3871,Software Engineer with 6.8 yrs at Unacademy; 4 AI-core skills; recruiter response rate 0.72; 60d notice; GitHub activity score 12; based in London.
+CAND_0081383,40,0.3753,"Project Manager with 7.8 yrs at Hooli; 5 AI-core skills; recruiter response rate 0.33; 90d notice; based in Vizag, Andhra Pradesh."
+CAND_0053459,41,0.361,"Business Analyst with 4.1 yrs at Pied Piper; 4 AI-core skills; recruiter response rate 0.58; 60d notice; GitHub activity score 30; based in Coimbatore, Tamil Nadu."
+CAND_0014714,42,0.3534,Software Engineer with 2.0 yrs at Meesho; 2 AI-core skills; recruiter response rate 0.29; 60d notice; GitHub activity score 36; based in London.
+CAND_0040030,43,0.3488,"Project Manager with 11.7 yrs at Stark Industries; 4 AI-core skills; recruiter response rate 0.74; 90d notice; GitHub activity score 24; based in Delhi, Delhi."
+CAND_0012697,44,0.3468,Project Manager with 12.4 yrs at Wipro; 5 AI-core skills; recruiter response rate 0.71; 90d notice; GitHub activity score 7; based in Dubai.
+CAND_0002050,45,0.3452,Senior Software Engineer with 3.6 yrs at PolicyBazaar; 3 AI-core skills; recruiter response rate 0.46; 90d notice; based in Dubai.
+CAND_0033580,46,0.3294,"Project Manager with 4.2 yrs at Hooli; 5 AI-core skills; recruiter response rate 0.60; 30d notice; GitHub activity score 42; based in Mumbai, Maharashtra."
+CAND_0087459,47,0.3267,"Project Manager with 2.7 yrs at Acme Corp; 4 AI-core skills; recruiter response rate 0.34; 60d notice; GitHub activity score 25; based in Ahmedabad, Gujarat."
+CAND_0040916,48,0.3249,"Business Analyst with 1.6 yrs at Acme Corp; 4 AI-core skills; recruiter response rate 0.38; 60d notice; based in Gurgaon, Haryana."
+CAND_0080186,49,0.3249,"Project Manager with 1.6 yrs at Stark Industries; 4 AI-core skills; recruiter response rate 0.42; 30d notice; GitHub activity score 41; based in Trivandrum, Kerala."
+CAND_0085853,50,0.3241,"Data Engineer with 2.1 yrs at Flipkart; 7 AI-core skills; recruiter response rate 0.74; 60d notice; GitHub activity score 62; based in Chandigarh, Chandigarh."
+CAND_0039653,51,0.324,"Project Manager with 12.0 yrs at Dunder Mifflin; 4 AI-core skills; recruiter response rate 0.78; 60d notice; GitHub activity score 48; based in Vizag, Andhra Pradesh."
+CAND_0081218,52,0.3205,"Business Analyst with 4.6 yrs at TCS; 5 AI-core skills; recruiter response rate 0.75; 120d notice; based in Pune, Maharashtra."
+CAND_0060773,53,0.3203,"Project Manager with 11.6 yrs at TCS; 5 AI-core skills; recruiter response rate 0.33; 60d notice; based in Delhi, Delhi."
+CAND_0075986,54,0.3199,"Business Analyst with 2.1 yrs at Dunder Mifflin; 1 AI-core skills; recruiter response rate 0.43; 120d notice; based in Hyderabad, Telangana."
+CAND_0053768,55,0.3172,"Business Analyst with 14.3 yrs at Wayne Enterprises; 4 AI-core skills; recruiter response rate 0.71; 90d notice; based in Pune, Maharashtra."
+CAND_0079207,56,0.3144,"Business Analyst with 3.5 yrs at Dunder Mifflin; 3 AI-core skills; recruiter response rate 0.11; 60d notice; based in Pune, Maharashtra."
+CAND_0035301,57,0.3091,"Business Analyst with 12.6 yrs at Hooli; 6 AI-core skills; recruiter response rate 0.74; 30d notice; based in Indore, Madhya Pradesh."
+CAND_0000828,58,0.3041,Project Manager with 10.1 yrs at Globex Inc; 7 AI-core skills; recruiter response rate 0.12; 30d notice; GitHub activity score 24; based in Seattle.
+CAND_0043539,59,0.3035,"Business Analyst with 6.9 yrs at Infosys; 5 AI-core skills; recruiter response rate 0.60; 90d notice; GitHub activity score 31; based in Indore, Madhya Pradesh."
+CAND_0083564,60,0.3005,Business Analyst with 2.2 yrs at Pied Piper; 4 AI-core skills; recruiter response rate 0.47; 150d notice; based in Berlin.
+CAND_0070072,61,0.2996,"Project Manager with 2.4 yrs at Initech; 7 AI-core skills; recruiter response rate 0.48; 60d notice; GitHub activity score 38; based in Coimbatore, Tamil Nadu."
+CAND_0096777,62,0.2973,"Business Analyst with 7.7 yrs at Pied Piper; 4 AI-core skills; recruiter response rate 0.37; 60d notice; based in Hyderabad, Telangana."
+CAND_0084674,63,0.292,Project Manager with 5.0 yrs at Wipro; 5 AI-core skills; recruiter response rate 0.32; 30d notice; GitHub activity score 17; based in Berlin.
+CAND_0061649,64,0.2906,"Business Analyst with 7.2 yrs at Initech; 7 AI-core skills; recruiter response rate 0.35; 150d notice; based in Bangalore, Karnataka."
+CAND_0017231,65,0.2898,Project Manager with 3.5 yrs at Stark Industries; 0 AI-core skills; recruiter response rate 0.33; 90d notice; based in Berlin.
+CAND_0063826,66,0.2889,Project Manager with 8.1 yrs at Wipro; 6 AI-core skills; recruiter response rate 0.76; 90d notice; based in Singapore.
+CAND_0023934,67,0.2873,"Business Analyst with 6.2 yrs at Acme Corp; 5 AI-core skills; recruiter response rate 0.68; 60d notice; GitHub activity score 2; based in Indore, Madhya Pradesh."
+CAND_0083337,68,0.2859,"Business Analyst with 1.9 yrs at Stark Industries; 0 AI-core skills; recruiter response rate 0.18; 150d notice; based in Jaipur, Rajasthan."
+CAND_0094770,69,0.2841,"Project Manager with 1.6 yrs at Globex Inc; 3 AI-core skills; recruiter response rate 0.18; 150d notice; based in Delhi, Delhi."
+CAND_0055187,70,0.284,"Project Manager with 10.2 yrs at Globex Inc; 5 AI-core skills; recruiter response rate 0.33; 60d notice; GitHub activity score 44; based in Chennai, Tamil Nadu."
+CAND_0042888,71,0.2832,"Project Manager with 5.9 yrs at Infosys; 4 AI-core skills; recruiter response rate 0.18; 30d notice; based in Gurgaon, Haryana."
+CAND_0027869,72,0.2831,"Project Manager with 2.3 yrs at Pied Piper; 4 AI-core skills; recruiter response rate 0.45; 150d notice; based in Coimbatore, Tamil Nadu."
+CAND_0058579,73,0.2813,"Project Manager with 9.3 yrs at Wipro; 7 AI-core skills; recruiter response rate 0.12; 120d notice; GitHub activity score 0; based in Mumbai, Maharashtra."
+CAND_0077095,74,0.2794,"Project Manager with 11.3 yrs at Hooli; 6 AI-core skills; recruiter response rate 0.19; 90d notice; based in Jaipur, Rajasthan."
+CAND_0046904,75,0.2789,"Backend Engineer with 4.0 yrs at PharmEasy; 3 AI-core skills; recruiter response rate 0.25; 60d notice; GitHub activity score 53; based in Trivandrum, Kerala."
+CAND_0096861,76,0.2789,"Project Manager with 9.0 yrs at Wayne Enterprises; 4 AI-core skills; recruiter response rate 0.75; 150d notice; GitHub activity score 43; based in Kochi, Kerala."
+CAND_0087876,77,0.278,"Business Analyst with 1.6 yrs at Globex Inc; 6 AI-core skills; recruiter response rate 0.58; 90d notice; based in Chandigarh, Chandigarh."
+CAND_0011174,78,0.2774,Project Manager with 12.9 yrs at Pied Piper; 6 AI-core skills; recruiter response rate 0.38; 60d notice; GitHub activity score 11; based in Berlin.
+CAND_0076274,79,0.2759,"Project Manager with 2.8 yrs at Hooli; 7 AI-core skills; recruiter response rate 0.39; 90d notice; based in Chennai, Tamil Nadu."
+CAND_0067785,80,0.2755,"Business Analyst with 3.6 yrs at Acme Corp; 6 AI-core skills; recruiter response rate 0.25; 90d notice; based in Bangalore, Karnataka."
+CAND_0048601,81,0.2748,"Business Analyst with 2.0 yrs at Acme Corp; 5 AI-core skills; recruiter response rate 0.65; 150d notice; based in Pune, Maharashtra."
+CAND_0043278,82,0.2711,"Business Analyst with 3.7 yrs at Pied Piper; 6 AI-core skills; recruiter response rate 0.10; 60d notice; GitHub activity score 39; based in Pune, Maharashtra."
+CAND_0049155,83,0.2703,"Business Analyst with 5.2 yrs at Pied Piper; 3 AI-core skills; recruiter response rate 0.15; 90d notice; based in Bhubaneswar, Odisha."
+CAND_0034041,84,0.2695,"Business Analyst with 3.2 yrs at Acme Corp; 6 AI-core skills; recruiter response rate 0.53; 30d notice; based in Mumbai, Maharashtra."
+CAND_0015863,85,0.2693,"Project Manager with 10.1 yrs at Globex Inc; 7 AI-core skills; recruiter response rate 0.52; 90d notice; GitHub activity score 4; based in Gurgaon, Haryana."
+CAND_0075443,86,0.2688,"Project Manager with 11.6 yrs at Hooli; 3 AI-core skills; recruiter response rate 0.26; 60d notice; GitHub activity score 28; based in Mumbai, Maharashtra."
+CAND_0021871,87,0.2661,Project Manager with 12.0 yrs at Hooli; 6 AI-core skills; recruiter response rate 0.39; 90d notice; GitHub activity score 26; based in London.
+CAND_0079212,88,0.2661,"Project Manager with 8.7 yrs at Acme Corp; 4 AI-core skills; recruiter response rate 0.72; 90d notice; based in Trivandrum, Kerala."
+CAND_0014648,89,0.2658,Project Manager with 12.1 yrs at Wipro; 7 AI-core skills; recruiter response rate 0.65; 90d notice; GitHub activity score 30; based in Austin.
+CAND_0056887,90,0.2653,"Project Manager with 4.7 yrs at Pied Piper; 6 AI-core skills; recruiter response rate 0.12; 90d notice; based in Gurgaon, Haryana."
+CAND_0042798,91,0.2641,"Data Engineer with 6.8 yrs at Paytm; 2 AI-core skills; recruiter response rate 0.32; 30d notice; GitHub activity score 36; based in Gurgaon, Haryana."
+CAND_0004620,92,0.2622,Business Analyst with 5.1 yrs at Acme Corp; 6 AI-core skills; recruiter response rate 0.76; 30d notice; GitHub activity score 3; based in Austin.
+CAND_0025102,93,0.2612,"Project Manager with 9.7 yrs at Acme Corp; 2 AI-core skills; recruiter response rate 0.21; 60d notice; based in Jaipur, Rajasthan."
+CAND_0045984,94,0.2612,"Project Manager with 2.0 yrs at Globex Inc; 7 AI-core skills; recruiter response rate 0.73; 120d notice; based in Kochi, Kerala."
+CAND_0079398,95,0.2589,"Business Analyst with 12.4 yrs at Acme Corp; 2 AI-core skills; recruiter response rate 0.63; 60d notice; based in Hyderabad, Telangana."
+CAND_0097292,96,0.2585,Project Manager with 3.5 yrs at Globex Inc; 5 AI-core skills; recruiter response rate 0.38; 90d notice; based in San Francisco.
+CAND_0024262,97,0.2579,"Business Analyst with 8.1 yrs at Wipro; 5 AI-core skills; recruiter response rate 0.17; 30d notice; based in Chennai, Tamil Nadu."
+CAND_0062410,98,0.254,"Project Manager with 4.4 yrs at Stark Industries; 5 AI-core skills; recruiter response rate 0.31; 90d notice; based in Pune, Maharashtra."
+CAND_0003403,99,0.2538,"Software Engineer with 5.8 yrs at BYJU'S; 6 AI-core skills; recruiter response rate 0.71; 120d notice; GitHub activity score 23; based in Noida, Uttar Pradesh."
+CAND_0026922,100,0.2538,"Project Manager with 12.5 yrs at Acme Corp; 6 AI-core skills; recruiter response rate 0.37; 60d notice; based in Hyderabad, Telangana."

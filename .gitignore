@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Large data files (over 100MB, git will reject these)
+data/*.npy
+data/*.jsonl
+data/*.gz
+data/.upload_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Extra outputs
+submission_ce.csv

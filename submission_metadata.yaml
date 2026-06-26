@@ -1,0 +1,75 @@
+# Redrob Hackathon — Submission Metadata
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "redrob-ranking-engine"
+
+primary_contact:
+  name: "Team Member"
+  email: "member@example.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Team Member"
+    email: "member@example.com"
+    role: "ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/Shikhar-404exe/India-Runs.git"
+
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python -m backend.fast_pipeline --data-dir data --out submission.csv"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Windows 11 / Local CPU"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  # Fast pipeline uses keyword pre-filter + embed subset (under 5 min total).
+  #   12-core no-AVX-512: ~4.3 min
+  #   Linux + AVX-512 VNNI: ~2 min
+  pre_computation_time_minutes: 5
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Antigravity IDE (Gemini)"
+
+ai_usage_summary: |
+  Used Antigravity IDE (powered by Gemini) for architecture discussion and code generation.
+  No candidate data was fed to any LLM. All scoring logic is deterministic and local.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Single-phase fast pipeline: (1) TF-IDF keyword matching selects top 5,000
+  candidates from the full 100k pool; (2) all-MiniLM-L6-v2 encodes only those
+  5,000 into 384-dim vectors; (3) dot-product similarity against the JD vector
+  selects top 2,000; (4) vectorized Pandas/NumPy filters (honeypot, title
+  exclusion, outsourcing penalty, tenure penalty, AI title boost, openness boost,
+  verification boost); (5) Redrob 23-signal velocity scalar for behavioral
+  weighting; (6) composite score = 0.45*semantic + 0.30*velocity + 0.15*filter
+  + 0.10*edu with extractive reasoning strings. Total runtime under 5 min on CPU
+  (tested: 4.3 min on 12-core no-AVX-512 Windows; ~2 min on Linux + AVX-512).
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
